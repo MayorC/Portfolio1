@@ -5,18 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
 h1, h2{
-  color: #ffffff;
+  color: #000000;
 }
 
-.glass{
-background: rgba(255, 255, 255, 0.2);
-border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(12.1px);
--webkit-backdrop-filter: blur(12.1px);
-border: 1px solid rgba(255, 255, 255, 0.3);
-width: 100%;
-}
 
 html,
 body {
