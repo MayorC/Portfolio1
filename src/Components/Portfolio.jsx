@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/hacker-1.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "An AI generated hacker photo";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cisco Certified CyberOps Associate",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Certified by Cisco to perform CyberSecurity Operations like Digital Forensics, Malware Analysis and many more.",
+    url: "https://www.credly.com/badges/71e6eef7-b0cd-4bec-a6c0-ab629d726a08/linked_in_profile",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ISC2 Certified in CyberSecurity",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Entry-Level certification in Cybersecurity by the International Information System Security Certification Consortium",
+    url: "https://www.credly.com/badges/f380f81a-232a-457b-8fa3-b0f552debd87/linked_in_profile",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Link to a folder containing both of my resumes. Includes my experience and abilities as a Cyber Security Analyst and as a CM.",
+    url: "https://drive.google.com/drive/folders/1ORofpA5uD4F7zoZZoFJicgRbJ-l-LA2Q?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Meta Certified Community Manager",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Meta Certification after training to implement tested community strategies for growth and engagement",
+    url: "https://www.credly.com/badges/220f1172-e224-491b-998e-a20218d9497e/linked_in_profile",
   },
 ];
 
